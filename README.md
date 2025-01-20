@@ -118,5 +118,18 @@ Visualization: Card
 Fields: Sum of Profit
 
 
+**📌 Connect With Me**
+
+If you’re interested in exploring how data visualization can transform your business operations, feel free to connect with me!
+
+📧 deepakkumarsingh7774@gmail.com
+
+🔗 https://www.linkedin.com/in/deepakkumar7774
+
+🌐 https://github.com/Deepakkumar7774/E-Commerce-Project-Analysis
+
+
+**Let’s turn data into actionable insights and drive success together! **
+
 
 
