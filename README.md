@@ -23,6 +23,16 @@ Product Analysis: Number of products sold per year and revenue per product categ
 
 Interactive Filtering: Slicers based on segments for dynamic data exploration.
 
+
+**🛠️ Tools and Technologies Used**
+
+Power BI: For creating interactive data visualizations and dashboards.
+
+Microsoft Excel: For data preprocessing, data cleaning and initial analysis.
+
+DAX (Data Analysis Expressions): For creating measures and calculated columns in Power BI
+
+
 **📈 Visualization Details**
 
 📊 KPI 1: Top 10 Revenue-Generating Countries
@@ -108,11 +118,5 @@ Visualization: Card
 Fields: Sum of Profit
 
 
-**🙏 Acknowledgements**
 
-Special thanks to the team for their dedication and hard work.
-
-Thanks to Power BI for providing the tools to create this dashboard.
-
-Feel free to adjust the content and emojis as needed to better fit your specific project details and style. Let me know if there's anything else you need!
 
